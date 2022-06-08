@@ -1,5 +1,5 @@
 
-# Movie Recommendation System
+# Movie Recommendation Engine
 ![Python](https://img.shields.io/badge/Python-3.7-blueviolet)     ![Framework](https://img.shields.io/badge/Framework-Flask-red) ![Frontend](https://img.shields.io/badge/Frontend-React-green) ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
 ## Overview 
